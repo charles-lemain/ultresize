@@ -1,10 +1,11 @@
 # ultresize
 
-***THIS SCRIPT IS A WORK IN PROGRESS BY A BEGINNER SELF-TAUGHT PROGRAMMER***
+*this is an incomplete (and discontinued) Python utility for adding 
+keyboard shortcuts that can resize a window to a specified size using pygetwindow
+and a keyboard listener from pynput. Useful for ultrawide monitor users.
 
-This is a tiny utility that provides a hotkey to automatically resize any window to the desired size.
-I made it to quickly resize windows to about 2/3 screen width and it is aimed at ultrawide display setups,
-to work around the default edge snapping features in Windows 10.
+It's for windows so I don't currently need it, but it's possible I'll finish this in the future.
 
-I will be adding new features.
+
+
 
